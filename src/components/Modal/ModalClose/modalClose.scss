@@ -1,0 +1,14 @@
+.btn-close {
+
+  display: flex;
+  justify-content: right;
+  align-self: end;
+
+
+  button {
+    width: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
